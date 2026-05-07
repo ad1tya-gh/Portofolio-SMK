@@ -5,7 +5,7 @@
         "desc": "Sebuah website e-commerce yang memungkinkan pengguna untuk menjelajahi produk berdasarkan kategori, ataupun dengan fitur pencarian dengan keyword yang dimasukkan pengguna. Fitur utama adalah katalog produk serta manajemen produk untuk admin.",
         "fitur": ["Katalog produk yang lengkap dengan kategori dan filter", "Manajemen produk & kategori sebagai admin"],
         "img": [
-            "/img/portofolio/e-commerce/1.png",
+            "/img/Portofolio/e-commerce/1.png",
             "/img/portofolio/e-commerce/2.png",
             "/img/portofolio/e-commerce/3.png",
             "/img/portofolio/e-commerce/4.png",
@@ -24,11 +24,11 @@
         "desc": "Sebuah landing page yang dirancang untuk menarik perhatian pengunjung dan mendorong mereka untuk mengambil tindakan tertentu, seperti mendaftar atau membeli produk.",
         "fitur": ["Desain yang menarik dan responsif", "Call-to-action yang jelas", "Formulir kontak untuk menghubungi pengguna"],
         "img": [
-            "../public/img/portofolio/Landing page/1.png",
-            "../public/img/portofolio/Landing page/2.png",
-            "../public/img/portofolio/Landing page/3.png",
-            "../public/img/portofolio/Landing page/4.png",
-            "../public/img/portofolio/Landing page/5.png"
+            "../public/img/portofolio/landing-page/1.png",
+            "../public/img/portofolio/landing-page/2.png",
+            "../public/img/portofolio/landing-page/3.png",
+            "../public/img/portofolio/landing-page/4.png",
+            "../public/img/portofolio/landing-page/5.png"
         ],
         "tags": ["html", "CSS", "JavaScript", "bootstrap"]
     },
@@ -45,7 +45,7 @@
         "title": "Slicing UI Kusaku",
         "desc": "Implementasi desain UI dari mockup menjadi kode HTML dan CSS yang responsif.",
         "fitur": ["Implementasi desain UI yang responsif", "Penggunaan teknologi modern seperti Tailwind CSS"],
-        "img": ["../public/img/portofolio/kusaku UI/Kusaku UI.png", "../public/img/portofolio/kusaku UI/1.png", "../public/img/portofolio/kusaku UI/2.png", "../public/img/portofolio/kusaku UI/3.png"],
+        "img": ["../public/img/portofolio/kusaku-ui/kusaku-ui.png", "../public/img/portofolio/kusaku-ui/1.png", "../public/img/portofolio/kusaku-ui/2.png", "../public/img/portofolio/kusaku-ui/3.png"],
         "tags": ["html", "css", "JavaScript", "tailwind"]
     },
     {
