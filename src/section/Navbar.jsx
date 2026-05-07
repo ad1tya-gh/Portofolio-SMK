@@ -33,8 +33,8 @@ function Navbar() {
                             id="nav-menu"
                             className={
                                 active
-                                    ? "opacity-100 visible translate-0 absolute py-5 bg-[#212121] shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:max-w-full lg:shadow-none lg:bg-transparent lg:py-0 transition-all duration-300"
-                                    : "opacity-0 invisible -translate-y-5 absolute py-5 bg-[#212121] shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:max-w-full lg:shadow-none lg:bg-transparent lg:py-0 transition-all duration-300"
+                                    ? "absolute py-5 bg-[#212121] shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:max-w-full lg:shadow-none lg:bg-transparent lg:py-0"
+                                    : "hidden absolute py-5 bg-[#212121] shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:max-w-full lg:shadow-none lg:bg-transparent lg:py-0"
                             }
                         >
                             <ul className="block lg:flex">
