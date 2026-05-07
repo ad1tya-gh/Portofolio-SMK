@@ -17,7 +17,7 @@ function TechStack() {
             <h2 className="font-bold text-secondary mb-3 text-4xl lg:text-5xl text-center">
                 Tech <span className="text-white">Stack</span>
             </h2>
-            <motion.div className="flex flex-wrap gap-5 starting-center justify-center mt-10 mb-10" variants={container} initial="hidden" whileInView="show" viewport={{ once: false, amount: 0.8 }}>
+            <motion.div className="flex flex-wrap gap-5 starting-center justify-center mt-10 mb-10" variants={container} initial="hidden" whileInView="show" viewport={{ once: false }}>
                 <TechIcon name="HTML" variant="stack" />
                 <TechIcon name="CSS" variant="stack" />
                 <TechIcon name="javascript" variant="stack" />

@@ -19,7 +19,7 @@ function Proyek() {
                 Proyek <span className="text-secondary">Unggulan</span>
             </h2>
 
-            <motion.div className="flex flex-wrap gap-5 items-stretch justify-center mt-10 mb-10" variants={container} initial="hidden" whileInView="show" viewport={{ once: false, amount: 0.3 }}>
+            <motion.div className="flex flex-wrap gap-5 items-stretch justify-center mt-10 mb-10" variants={container} initial="hidden" whileInView="show" viewport={{ once: false }}>
                 {Projects.map((project) => (
                     <CardProyek key={project.id} id={project.id} img={project.img} title={project.title} tags={project.tags} />
                 ))}

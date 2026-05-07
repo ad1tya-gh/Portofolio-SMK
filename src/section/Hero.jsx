@@ -70,7 +70,7 @@ function Hero() {
                                 transition={{ duration: 0.8, ease: "easeOut", delay: 0.7 }}
                             />
                             <motion.span
-                                className="absolute -top-0 left-1/2 -translate-x-3/5 opacity-80 lg:-translate-x-3/6 translate-y-2/5 lg:scale-140 md:scale-160 md:-translate-x-3/6 md:translate-y-2/5 scale-150 lg:translate-y-2/7"
+                                className="absolute -top-0 left-1/2 -translate-x-3/5 opacity-80 lg:-translate-x-3/6 translate-y-2/5 xl:scale-140 lg:scale-135 md:scale-160 md:-translate-x-3/6 md:translate-y-2/5 scale-130 lg:translate-y-2/7 w-max"
                                 initial={{ opacity: 0, y: 70 }}
                                 animate={{ opacity: 1, y: 0 }}
                                 transition={{ duration: 0.8, ease: "ease" }}
