@@ -1,5 +1,5 @@
 import Sosmed from "../components/Sosmed";
-import aditya from "../assets/aditya.png";
+import aditya from "../assets/Aditya.png";
 import DownloadBt from "../components/DownloadBt";
 import bloob from "../assets/blob.svg";
 import { useState } from "react";
