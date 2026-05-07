@@ -5,8 +5,8 @@
         "desc": "Sebuah website e-commerce yang memungkinkan pengguna untuk menjelajahi produk berdasarkan kategori, ataupun dengan fitur pencarian dengan keyword yang dimasukkan pengguna. Fitur utama adalah katalog produk serta manajemen produk untuk admin.",
         "fitur": ["Katalog produk yang lengkap dengan kategori dan filter", "Manajemen produk & kategori sebagai admin"],
         "img": [
-            "/img/portofolio/e-commerce/1.png",
-            "/img/portofolio/e-commerce/2.png",
+            "img/portofolio/e-commerce/1.png",
+            "public/img/portofolio/e-commerce/2.png",
             "/img/portofolio/e-commerce/3.png",
             "/img/portofolio/e-commerce/4.png",
             "/img/portofolio/e-commerce/5.png",
