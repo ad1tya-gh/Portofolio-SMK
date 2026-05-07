@@ -34,7 +34,7 @@ function Hero() {
                                 onInit={(typewriter) => {
                                     typewriter
                                         .typeString("Saya adalah ")
-                                        .typeString('<span style="color: white; font-weight: bold;">Front-End Web Developer</span>')
+                                        .typeString('<span style="color: white; font-weight: bold;">Junior Front-End Web Developer</span>')
                                         .typeString(" yang menciptakan antarmuka web yang modern dan responsif. Saya percaya bahwa kode yang bersih dan desain yang indah adalah kunci untuk membangun produk digital yang luar biasa")
                                         .pauseFor(2500)
                                         .start();
@@ -50,9 +50,8 @@ function Hero() {
                             {/* Saya adalah <span className="text-white font-bold">Front-End Web Developer</span> yang menciptakan antarmuka web yang modern dan responsif. Saya percaya bahwa kode yang bersih dan desain yang indah adalah kunci
                             untuk membangun produk digital yang luar biasa */}
                         </motion.div>
-                        <motion.div className="inline-flex items-center gap-3 mb-5 pl-3" variants={container} initial="hidden" animate="show">
-                            <Sosmed sosmed="telegram" link="" />
-                            <Sosmed sosmed="linkedin" link="" />
+                        <motion.div className="inline-flex items-center gap-3 mb-5" variants={container} initial="hidden" animate="show">
+                            <Sosmed sosmed="linkedin" link="https://www.linkedin.com/in/ahmad-aditya-0526a9357/" />
                             <Sosmed sosmed="github" link="https://github.com/ad1tya-gh" />
                             <Sosmed sosmed="instagram" link="https://www.instagram.com/_iamditss/" />
                         </motion.div>

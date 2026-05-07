@@ -1,8 +1,8 @@
 [
     {
-        "id": "e-commerce",
-        "title": "E-Commerce Website",
-        "desc": "Sebuah website e-commerce yang memungkinkan pengguna untuk menjelajahi produk berdasarkan kategori, ataupun dengan fitur pencarian dengan keyword yang dimasukkan pengguna. Fitur utama adalah katalog produk serta manajemen produk untuk admin.",
+        "id": "Katalog",
+        "title": "Website Katalog Produk",
+        "desc": "Sebuah website Katalog yang memungkinkan pengguna untuk menjelajahi produk berdasarkan kategori, ataupun dengan fitur pencarian dengan keyword yang dimasukkan pengguna. Fitur utama adalah katalog produk serta manajemen produk untuk admin.",
         "fitur": ["Katalog produk yang lengkap dengan kategori dan filter", "Manajemen produk & kategori sebagai admin"],
         "img": [
             "/img/Portofolio/e-commerce/1.webp",
@@ -44,7 +44,7 @@
     },
     {
         "id": "portofolio-tailwind",
-        "title": "Website Portofolio Pribadi",
+        "title": "Website Portofolio",
         "desc": "Website portofolio merupakan representasi digital dari identitas profesional dan karya kreatif sebagai pengembang web. Dibangun dengan fokus pada kecepatan, estetika minimalis, dan fungsionalitas, berfungsi sebagai hub sentral untuk menampilkan keahlian teknis, proyek-proyek yang telah diselesaikan, serta cara untuk menghubungi secara profesional.",
         "fitur": ["Design minimalis", "Design yang sudah responsive", "Design yang Interaktif", "Galeri karya yang sudah dibuat"],
         "img": ["/img/Portofolio/portofolio/1.webp", "/img/Portofolio/portofolio/2.webp", "/img/Portofolio/portofolio/3.webp", "/img/Portofolio/portofolio/4.webp"],
