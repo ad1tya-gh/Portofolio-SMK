@@ -15,7 +15,7 @@ function NavBt({ name }) {
     return (
         <>
             {menuItems.map((item) => (
-                <li className="group">
+                <li className="group" key={item.id}>
                     <NavHashLink
                         key={item.id}
                         to={`/#${item.id}`}

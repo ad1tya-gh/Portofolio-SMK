@@ -15,7 +15,7 @@ function Proyek() {
 
     return (
         <div className="pt-20 px-20" id="proyek">
-            <h2 className="font-bold text-white mb-3 text-4xl lg:text-5xl text-center">
+            <h2 className="font-bold text-white mb-3 text-4xl lg:text-5xl text-center font-poppins">
                 Proyek <span className="text-secondary">Unggulan</span>
             </h2>
 

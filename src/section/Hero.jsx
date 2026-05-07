@@ -29,7 +29,7 @@ function Hero() {
                         <motion.h2 className="font-medium text-slate-500 mb-5 text-lg 2xl:text-xl" initial={{ opacity: 0, y: 50 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, ease: "easeOut", delay: 0.4 }}>
                             Front-end Web Developer
                         </motion.h2>
-                        <motion.p className="font-medium text-slate-400 mb-2 leading-relaxed 2xl:text-lg" initial={{ opacity: 0, y: 50 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, ease: "easeOut", delay: 0.5 }}>
+                        <motion.div className="font-medium text-slate-400 mb-2 leading-relaxed 2xl:text-lg" initial={{ opacity: 0, y: 50 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, ease: "easeOut", delay: 0.5 }}>
                             <Typewriter
                                 onInit={(typewriter) => {
                                     typewriter
@@ -49,7 +49,7 @@ function Hero() {
 
                             {/* Saya adalah <span className="text-white font-bold">Front-End Web Developer</span> yang menciptakan antarmuka web yang modern dan responsif. Saya percaya bahwa kode yang bersih dan desain yang indah adalah kunci
                             untuk membangun produk digital yang luar biasa */}
-                        </motion.p>
+                        </motion.div>
                         <motion.div className="inline-flex items-center gap-3 mb-5 pl-3" variants={container} initial="hidden" animate="show">
                             <Sosmed sosmed="telegram" link="" />
                             <Sosmed sosmed="linkedin" link="" />
@@ -70,7 +70,7 @@ function Hero() {
                                 transition={{ duration: 0.8, ease: "easeOut", delay: 0.7 }}
                             />
                             <motion.span
-                                className="absolute -top-0 left-1/2 -translate-x-3/5 opacity-80 lg:-translate-x-3/6 translate-y-2/5 xl:scale-140 lg:scale-135 md:scale-160 md:-translate-x-3/6 md:translate-y-2/5 scale-130 lg:translate-y-2/7 w-max"
+                                className="absolute -top-0 left-1/2 -translate-x-3/5 opacity-80 lg:-translate-x-3/6 translate-y-2/7 xl:scale-140 lg:scale-135 md:scale-160 md:-translate-x-3/6 md:translate-y-2/5 scale-130 lg:translate-y-2/7 w-max"
                                 initial={{ opacity: 0, y: 70 }}
                                 animate={{ opacity: 1, y: 0 }}
                                 transition={{ duration: 0.8, ease: "ease" }}

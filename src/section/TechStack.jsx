@@ -14,7 +14,7 @@ function TechStack() {
 
     return (
         <div className="py-10 px-20">
-            <h2 className="font-bold text-secondary mb-3 text-4xl lg:text-5xl text-center">
+            <h2 className="font-bold text-secondary mb-3 text-4xl lg:text-5xl text-center font-poppins">
                 Tech <span className="text-white">Stack</span>
             </h2>
             <motion.div className="flex flex-wrap gap-5 starting-center justify-center mt-10 mb-10" variants={container} initial="hidden" whileInView="show" viewport={{ once: false }}>

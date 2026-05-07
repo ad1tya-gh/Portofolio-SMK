@@ -8,7 +8,7 @@ function DownloadBt() {
     };
     return (
         <motion.a
-            href="../public/CV/CV Ahmad Aditya.pdf"
+            href="/CV/CV-Ahmad-Aditya.pdf"
             download="CV_Ahmad_Aditya.pdf"
             className="bg-primary inline-flex items-center gap-2 text-white font-semibold py-3 px-6 rounded-full hover:bg-[#02c39a] transition duration-300 hover:scale-105 ease-in-out"
             variants={animasi}

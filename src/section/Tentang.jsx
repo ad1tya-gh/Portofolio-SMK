@@ -22,7 +22,7 @@ function Tentang() {
                     {/* <!-- Informasi tentang saya --> */}
                     <div className="w-full lg:w-2/3 px-5 pr-8 self-center">
                         <motion.h2
-                            className="font-bold text-white mb-3 text-4xl lg:text-5xl"
+                            className="font-bold text-white mb-3 text-4xl lg:text-5xl font-poppins"
                             initial={{ opacity: 0, y: 50 }}
                             whileInView={{ opacity: 1, y: 0 }}
                             viewport={{ once: true, amount: 0.45 }}
@@ -31,7 +31,7 @@ function Tentang() {
                             Tentang <span className="text-secondary">Saya</span>
                         </motion.h2>
                         <motion.p
-                            className="font-medium text-slate-400 mb-2 leading-relaxed"
+                            className="font-medium text-slate-400 mb-2 leading-relaxed font-poppins"
                             initial={{ opacity: 0, y: 50 }}
                             whileInView={{ opacity: 1, y: 0 }}
                             viewport={{ once: true, amount: 0.45 }}
@@ -43,7 +43,7 @@ function Tentang() {
                             tujuan tersebut dan memberikan kontribusi yang berarti dalam dunia teknologi.
                         </motion.p>
                         <motion.p
-                            className="font-medium text-slate-400 mb-2 leading-relaxed"
+                            className="font-medium text-slate-400 mb-2 leading-relaxed font-poppins"
                             initial={{ opacity: 0, y: 50 }}
                             whileInView={{ opacity: 1, y: 0 }}
                             viewport={{ once: true, amount: 0.45 }}

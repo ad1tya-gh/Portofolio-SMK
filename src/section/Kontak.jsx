@@ -13,7 +13,7 @@ function Kontak() {
     };
     return (
         <motion.section className="py-20 px-20" id="kontak" variants={container} initial="hidden" whileInView="show" viewport={{ once: false, amount: 0.6 }}>
-            <h2 className="font-bold text-secondary mb-3 text-4xl lg:text-5xl text-center">
+            <h2 className="font-bold text-secondary mb-3 text-4xl lg:text-5xl text-center font-poppins">
                 Kontak <span className="text-white">Saya</span>
             </h2>
             <FormKontak />
