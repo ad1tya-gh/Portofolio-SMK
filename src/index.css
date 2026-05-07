@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+@import "tailwindcss";
+
+@theme {
+    --font-poppins: "Poppins", sans-serif;
+    --color-primary: #00a896;
+    --color-secondary: #02c39a;
+    --color-dark: #1e1e1e;
+    --text-xxs: 0.6rem;
+}
+
+/* Mengubah tampilan titik pagination */
+.swiper-pagination-bullet {
+    background: #02c39a !important;
+    opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+    width: 20px !important;
+    border-radius: 5px !important;
+    opacity: 1;
+    transition:
+        width 0.3s ease,
+        background-color 0.5s ease;
+}
+
+.hamburger-menu {
+    @apply w-[25px] h-[2px] my-1.5 block bg-[#00A896];
+}
+
+.hamburger-active > span:nth-child(1) {
+    @apply rotate-45;
+}
+
+.hamburger-active > span:nth-child(3) {
+    @apply -rotate-45;
+}
+
+.hamburger-active > span:nth-child(2) {
+    @apply scale-0;
+}
+
+.navbar-fixed {
+    @apply fixed z-[999] bg-[#212121] opacity-85 backdrop-blur-[5px] shadow-xl;
+}
+
+.nav-menu-active {
+    @apply border-b-2 border-[#00A896] text-[#00A896];
+}

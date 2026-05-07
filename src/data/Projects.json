@@ -1,0 +1,66 @@
+[
+    {
+        "id": "e-commerce",
+        "title": "E-Commerce Website",
+        "desc": "Sebuah website e-commerce yang memungkinkan pengguna untuk menjelajahi produk berdasarkan kategori, ataupun dengan fitur pencarian dengan keyword yang dimasukkan pengguna. Fitur utama adalah katalog produk serta manajemen produk untuk admin.",
+        "fitur": ["Katalog produk yang lengkap dengan kategori dan filter", "Manajemen produk & kategori sebagai admin"],
+        "img": [
+            "../public/img/portofolio/e-commerce/1.png",
+            "../public/img/portofolio/e-commerce/2.png",
+            "../public/img/portofolio/e-commerce/3.png",
+            "../public/img/portofolio/e-commerce/4.png",
+            "../public/img/portofolio/e-commerce/5.png",
+            "../public/img/portofolio/e-commerce/6.png",
+            "../public/img/portofolio/e-commerce/7.png",
+            "../public/img/portofolio/e-commerce/8.png",
+            "../public/img/portofolio/e-commerce/9.png",
+            "../public/img/portofolio/e-commerce/10.png"
+        ],
+        "tags": ["PHP", "CSS", "JavaScript", "bootstrap", "mysql"]
+    },
+    {
+        "id": "landing-page",
+        "title": "Landing Page",
+        "desc": "Sebuah landing page yang dirancang untuk menarik perhatian pengunjung dan mendorong mereka untuk mengambil tindakan tertentu, seperti mendaftar atau membeli produk.",
+        "fitur": ["Desain yang menarik dan responsif", "Call-to-action yang jelas", "Formulir kontak untuk menghubungi pengguna"],
+        "img": [
+            "../public/img/portofolio/Landing page/1.png",
+            "../public/img/portofolio/Landing page/2.png",
+            "../public/img/portofolio/Landing page/3.png",
+            "../public/img/portofolio/Landing page/4.png",
+            "../public/img/portofolio/Landing page/5.png"
+        ],
+        "tags": ["html", "CSS", "JavaScript", "bootstrap"]
+    },
+    {
+        "id": "admin-perpustakaan",
+        "title": "Admin Perpustakaan",
+        "desc": "Sebuah aplikasi admin untuk mengelola koleksi perpustakaan, termasuk manajemen buku, peminjaman, dan pengembalian.",
+        "fitur": ["Manajemen koleksi buku", "Sistem peminjaman dan pengembalian", "Sistem manajemen admin perpustakaan sebagai super admin"],
+        "img": ["../public/img/portofolio/perpus/1.png", "../public/img/portofolio/perpus/2.png", "../public/img/portofolio/perpus/3.png", "../public/img/portofolio/perpus/4.png"],
+        "tags": ["php", "mysql", "css", "JavaScript", "bootstrap"]
+    },
+    {
+        "id": "slicing-ui-kusaku",
+        "title": "Slicing UI Kusaku",
+        "desc": "Implementasi desain UI dari mockup menjadi kode HTML dan CSS yang responsif.",
+        "fitur": ["Implementasi desain UI yang responsif", "Penggunaan teknologi modern seperti Tailwind CSS"],
+        "img": ["../public/img/portofolio/kusaku UI/Kusaku UI.png", "../public/img/portofolio/kusaku UI/1.png", "../public/img/portofolio/kusaku UI/2.png", "../public/img/portofolio/kusaku UI/3.png"],
+        "tags": ["html", "css", "JavaScript", "tailwind"]
+    },
+    {
+        "id": "portofolio-tailwind",
+        "title": "Website Portofolio Pribadi",
+        "desc": "Website portofolio merupakan representasi digital dari identitas profesional dan karya kreatif sebagai pengembang web. Dibangun dengan fokus pada kecepatan, estetika minimalis, dan fungsionalitas, berfungsi sebagai hub sentral untuk menampilkan keahlian teknis, proyek-proyek yang telah diselesaikan, serta cara untuk menghubungi secara profesional.",
+        "fitur": ["Design minimalis", "Design yang sudah responsive", "Design yang Interaktif", "Galeri karya yang sudah dibuat"],
+        "img": [
+            "../public/img/portofolio/portofolio/1.png",
+            "../public/img/portofolio/portofolio/2.png",
+            "../public/img/portofolio/portofolio/3.png",
+            "../public/img/portofolio/portofolio/4.png",
+            "../public/img/portofolio/portofolio/5.png",
+            "../public/img/portofolio/portofolio/6.png"
+        ],
+        "tags": ["html", "css", "JavaScript", "tailwind"]
+    }
+]
