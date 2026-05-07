@@ -47,7 +47,7 @@
         "title": "Website Portofolio Pribadi",
         "desc": "Website portofolio merupakan representasi digital dari identitas profesional dan karya kreatif sebagai pengembang web. Dibangun dengan fokus pada kecepatan, estetika minimalis, dan fungsionalitas, berfungsi sebagai hub sentral untuk menampilkan keahlian teknis, proyek-proyek yang telah diselesaikan, serta cara untuk menghubungi secara profesional.",
         "fitur": ["Design minimalis", "Design yang sudah responsive", "Design yang Interaktif", "Galeri karya yang sudah dibuat"],
-        "img": ["/img/portofolio/portofolio/1.webp", "/img/portofolio/portofolio/2.webp", "/img/portofolio/portofolio/3.webp", "/img/portofolio/portofolio/4.webp", "/img/portofolio/portofolio/5.webp", "/img/portofolio/portofolio/6.webp"],
+        "img": ["/img/Portofolio/portofolio/1.webp", "/img/Portofolio/portofolio/2.webp", "/img/Portofolio/portofolio/3.webp", "/img/Portofolio/portofolio/4.webp"],
         "tags": ["html", "css", "JavaScript", "tailwind"]
     }
 ]
