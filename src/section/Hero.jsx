@@ -27,7 +27,7 @@ function Hero() {
                             Halo Semua, saya <span className="block font-bold text-white mb-1 text-4xl 2xl:text-6xl">Ahmad Aditya</span>
                         </motion.h1>
                         <motion.h2 className="font-medium text-slate-500 mb-5 text-lg 2xl:text-xl" initial={{ opacity: 0, y: 50 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, ease: "easeOut", delay: 0.4 }}>
-                            Front-end Web Developer
+                            Junior Front-end Web Developer
                         </motion.h2>
                         <motion.div className="font-medium text-slate-400 mb-2 leading-relaxed 2xl:text-lg" initial={{ opacity: 0, y: 50 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, ease: "easeOut", delay: 0.5 }}>
                             <Typewriter
